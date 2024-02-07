@@ -1,6 +1,6 @@
 ### Hi! 
-I am currently a postdoctoral fellow at the University of Toronto Scarborough. Currently I am working on how climate change can affect invasive species and the associated socioeconomic and environmental impacts, as well as using simulations to understand the strength and weakness of different regression technique (OLS, GLS, and GLMM) in analyzing ecological datasets. My previous research also included analyzing large ecological datsets (8m - 36m records) and developnig new statistical analyses to address different ecological questions! 
-I use R to conduct statistical analyses and data manipulation primarily, including running SQL operations in R. However I am also familiar with with Python and SQL language. 
+I am currently a postdoctoral fellow at the University of Toronto Scarborough. Currently I am working on how climate change can affect invasive species and the associated socioeconomic and environmental impacts, as well as using simulations to understand the strength and weakness of different regression technique (OLS, GLS, and GLMM) in analyzing ecological datasets. My previous research also included analyzing large ecological datsets (8m - 36m records) and developnig new statistical analyses to address different ecological questions. I have also organized different statistical workshops for students (e.g., Structural equation models).
+I use R to conduct statistical analyses, prepare workshop materials, and data manipulation primarily. This includes running SQL operations in R. However I am also familiar with with Python and SQL language.
 
 
 <!--
